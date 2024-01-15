@@ -47,7 +47,7 @@ The ESP32 board and library are now integrated into your Arduino IDE.
 
 To enable ESP32 Sketch Data Upload for handling files like images, web pages, or configuration data, follow these steps:
 
-1. Download and install the [ESP32 Sketch Data Upload Tool](https://github.com/me-no-dev/arduino-esp32fs-plugin).
+1. Download and install the [ESP32 Sketch Data Upload Tool](https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/tag/1.1).
 2. Follow the installation instructions for the tool based on your operating system.
 3. After installing the tool, restart the Arduino IDE.
 4. In the Arduino IDE, go to `Tools` > `ESP32 Sketch Data Upload` to open the data upload tool.
