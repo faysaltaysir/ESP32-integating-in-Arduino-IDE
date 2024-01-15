@@ -8,14 +8,10 @@ This guide provides step-by-step instructions on how to integrate the ESP32 libr
   - [Table of Contents](#table-of-contents)
   - [About the Library](#about-the-library)
   - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-    - [Adding ESP32 Sketch Data Upload](#adding-esp32-sketch-data-upload)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgements](#acknowledgements)
-
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Adding ESP32 Sketch Data Upload](#adding-esp32-sketch-data-upload)
+  
 ## About the Library
 
 Briefly describe what the ESP32 library is, its purpose, and any features it provides. Include links to the official documentation or GitHub repository.
