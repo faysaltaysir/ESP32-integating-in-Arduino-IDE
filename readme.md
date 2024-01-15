@@ -57,3 +57,18 @@ To enable ESP32 Sketch Data Upload for handling files like images, web pages, or
 4. In the Arduino IDE, go to `Tools` > `ESP32 Sketch Data Upload` to open the data upload tool.
 
 Now, you can use the `data` folder in your sketch directory to store files that will be uploaded to the ESP32 file system when you run the Sketch Data Upload tool.
+
+### Selecting ESP32 Board (e.g., ESP32 WROOM) and right Port
+1.Go to 'Tools' > 'Board'.
+Select the ESP32 board that matches your hardware. For example, if you are using the ESP32 WROOM module, choose 'ESP32 WROOM' from the list.
+1. Again Go to 'Tools' > 'Port' and select the right port.
+
+### Uploading Sketch and Codes to ESP32 Board
+1. Click `Tools` > `ESP32 Sketch Data Upload` to upload both the sketch and the data files to the ESP32.
+You may need to press the 'BOOT' button of your ESP32 to Keep the board in Boot mode while uploading the Code.
+
+3. Then Click the upload button to upload the code to ESP32.
+here again You may need to press the 'BOOT' button of your ESP32 to Keep the board in Boot mode while uploading the Code.
+
+
+
